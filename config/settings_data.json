@@ -1,12 +1,12 @@
 {
   "current": {
-    "colors_solid_button_labels": "#0000ff",
-    "colors_accent_1": "#e7ecff",
+    "colors_solid_button_labels": "#ba181b",
+    "colors_accent_1": "#f5f3f4",
     "gradient_accent_1": "",
-    "colors_accent_2": "#ffe6e6",
+    "colors_accent_2": "#f5f3f4",
     "gradient_accent_2": "",
-    "colors_text": "#0000ff",
-    "colors_outline_button_labels": "#e10000",
+    "colors_text": "#000000",
+    "colors_outline_button_labels": "#ba181b",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
     "colors_background_2": "#fffce7",
@@ -117,12 +117,13 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 80,
-          "logo_position": "top-center",
+          "logo": "shopify:\/\/shop_images\/Screenshot_2022-04-16_at_14.35.21.png",
+          "logo_width": 200,
+          "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "mega",
           "show_line_separator": false,
-          "enable_sticky_header": false,
+          "enable_sticky_header": true,
           "margin_bottom": 0
         }
       },
@@ -154,7 +155,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
