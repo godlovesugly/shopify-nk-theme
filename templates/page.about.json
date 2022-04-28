@@ -9,18 +9,37 @@
     },
     "slideshow": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
-        "slide-1": {
+        "dc928f52-4882-42f9-8b19-2ece51a06537": {
           "type": "slide",
           "settings": {
-            "heading": "",
-            "heading_size": "medium",
-            "subheading": "",
-            "button_label": "",
+            "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": false,
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e57bec74-a893-4a4c-b6b7-05eda7004ee5": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
@@ -29,7 +48,8 @@
         }
       },
       "block_order": [
-        "slide-1"
+        "dc928f52-4882-42f9-8b19-2ece51a06537",
+        "e57bec74-a893-4a4c-b6b7-05eda7004ee5"
       ],
       "settings": {
         "layout": "full_bleed",

@@ -1,0 +1,238 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1651156577f6342e7a": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16511565777c8e6199-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16511565777c8e6199-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16511565777c8e6199-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "16511565777c8e6199-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16511565777c8e6199-0",
+        "16511565777c8e6199-1",
+        "16511565777c8e6199-2",
+        "16511565777c8e6199-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Plată",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165115623558308ece": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1651156235cd944fcf-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1651156235cd944fcf-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1651156235cd944fcf-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1651156235cd944fcf-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1651156235cd944fcf-0",
+        "1651156235cd944fcf-1",
+        "1651156235cd944fcf-2",
+        "1651156235cd944fcf-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Livrare",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1651156023befb1429": {
+      "type": "collapsible-content",
+      "blocks": {
+        "165115602318e628d8-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cum returnezi",
+            "icon": "none",
+            "row_content": "<p>Daca vrei sa returnezi o comanda sau un produs, sa stii ca e foarte simplu la Fashion Days. Ai patru modalitati prin care poti face asta: ridicare de catre <strong>curier<\/strong>, retur in <strong>easybox<\/strong>, predarea intr-un oficiu <strong>Posta Romana<\/strong> sau predare intr-un <strong>Showroom eMAG<\/strong>. Primele trei modalitati necesita in prealabil completarea unui formular de retur accesand sectiunea Retururi din Contul de Client Fashion Days. Returnarea in Showroom eMAG se poate face direct, fara completarea formularului de retur.<\/p><p>Pentru toate cele patru optiuni trebuie sa tii cont ca ai la dispozitie 30 de zile calendaristice de la data primirii coletului si ca produsele trebuie sa indeplineasca cateva conditii.<\/p><p>Am imbunatatit considerabil procesul pentru ca stim ca uneori se intampla sa nu fii multumit 100% cu alegerea facuta: de la <strong>retur gratuit<\/strong>, perioada extinsa de la 14 la <strong>30 zile<\/strong>, pana la retur in locatii multiple precum: reteaua nationala de lockere <strong>eMAG easybox<\/strong>, <strong>Posta Romana<\/strong> sau <strong>showroom-urile eMAG<\/strong>.<\/p><p>Mai mult, returnarea banilor se face rapid, sub 7 zile, iar daca te grabesti tare, in showroom-urile eMAG primesti banii pe loc, daca plata s-a facut ramburs.<\/p><p>Ne dorim sa oferim in continuare toate aceste servicii si ba chiar sa te surprindem cu unele noi, dar avem nevoie si de ajutorul tau.<\/p><p>E important ca tu sa returnezi responsabil!<\/p>",
+            "page": ""
+          }
+        },
+        "165115602318e628d8-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ce inseamna retur responsabil?",
+            "icon": "none",
+            "row_content": "<p>insert content here<\/p>",
+            "page": ""
+          }
+        },
+        "165115602318e628d8-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ce conditii trebuie sa indeplineasca produsul returnat?",
+            "icon": "none",
+            "row_content": "<p>insert content here<\/p>",
+            "page": ""
+          }
+        },
+        "165115602318e628d8-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Categorii de produse cu conditii speciale de retur",
+            "icon": "none",
+            "row_content": "<p>insert content here<\/p>",
+            "page": ""
+          }
+        },
+        "a4971fa2-bed5-4e3f-b4ae-8f4037085df4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Modalități de retur",
+            "icon": "none",
+            "row_content": "<p>insert content here<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "165115602318e628d8-0",
+        "165115602318e628d8-1",
+        "165115602318e628d8-2",
+        "165115602318e628d8-3",
+        "a4971fa2-bed5-4e3f-b4ae-8f4037085df4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Informații despre retur",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rămâi la curent",
+            "heading_size": "h2"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1651156577f6342e7a",
+    "165115623558308ece",
+    "1651156023befb1429",
+    "newsletter"
+  ]
+}
