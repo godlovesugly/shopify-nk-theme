@@ -145,6 +145,7 @@
         {%- endif -%}
 
         {%- if section.settings.show_social -%}
+          <div class="newsletter__subheading"><p>Urmărește-ne pe social media</p></div>
           <ul class="footer__list-social list-unstyled list-social" role="list">
             {%- if settings.social_twitter_link != blank -%}
               <li class="list-social__item">
@@ -225,6 +226,32 @@
   {%- endif -%}
 
   <div class="footer__content-bottom">
+
+    <div class="footer__info footer__content-bottom-wrapper page-width">
+      <div class="footer__column">
+        <h4 class="footer-info__heading">Informații utile</h4>
+      
+        <ul class="footer-info__list footer-block__details-content list-unstyled">
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Modalități de plată</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Livrare</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Retur</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Contact</a></li>
+        </ul>
+      </div>
+      
+      <div class="footer__column">
+        <h4 class="footer-info__heading">Informații legale</h4>
+      
+        <ul class="footer-info__list list-unstyled">
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Despre noi</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Cookies</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Politica de confidențialitate</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">Termeni și condiții</a></li>
+          <li><a class="link link--text list-menu__item list-menu__item--link" href="#">ANPC</a></li>
+        </ul>
+      </div>
+    </div>
+
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__column footer__localization isolate">
         {%- if section.settings.enable_country_selector and localization.available_countries.size > 1 -%}

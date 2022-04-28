@@ -71,24 +71,17 @@
           "type": "email_form",
           "settings": {
           }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Urmărește-ne pe social media<\/p>"
-          }
         }
       },
       "block_order": [
         "heading",
-        "email-form",
-        "paragraph"
+        "email-form"
       ],
       "settings": {
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 44,
-        "padding_bottom": 8
+        "padding_bottom": 16
       }
     }
   },

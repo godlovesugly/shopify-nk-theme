@@ -119,9 +119,10 @@
 
 .footer-block--newsletter {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
   margin-top: 3rem;
 }
 
@@ -512,5 +513,29 @@ noscript .localization-selector.link {
     .footer__content-top .grid__item {
       padding-left: 3rem;
     }
+  }
+}
+
+.footer-info__heading {
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  margin-top: 0;
+  font-size: calc(var(--font-heading-scale) * 1.2rem);
+}
+
+@media screen and (min-width: 990px) {
+  .footer-info__heading {
+    font-size: calc(var(--font-heading-scale) * 1.4rem);
+  }
+}
+
+
+.footer__info .footer-info__list .list-menu__item--link {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 750px) {
+  .footer__info .footer-info__list .list-menu__item--link {
+    font-size: 1.2rem;
   }
 }
