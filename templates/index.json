@@ -1,7 +1,32 @@
 {
   "sections": {
+    "collage-1": {
+      "type": "collage",
+      "blocks": {
+        "image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/low-shot-of-women-sitting-on-velvet-couch.jpg",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "image-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "collage",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
     "164959173413196275": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "16495917344baa232c-0": {
           "type": "featured_collection",
@@ -28,7 +53,7 @@
         "16495917344baa232c-2"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "Colecții",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -77,230 +102,36 @@
         "padding_bottom": 4
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Share some details about your featured collection to inspire your customers to explore more.",
-            "text": "",
-            "link_label": "Shop",
-            "link": ""
-          }
-        },
-        "column-3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3"
-      ],
+    "featured-collection": {
+      "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Cele mai vândute",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 60,
-        "padding_bottom": 36
-      }
-    },
-    "collage-1": {
-      "type": "collage",
-      "blocks": {
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        },
-        "image-2": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "image-1",
-        "image-2"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 16
-      }
-    },
-    "collage-2": {
-      "type": "collage",
-      "blocks": {
-        "image": {
-          "type": "image",
-          "settings": {
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "image"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 4,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn-1": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Introduce a set of collections that give your customers different ways to browse your products.",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 64,
-        "padding_bottom": 28
-      }
-    },
-    "multicolumn-2": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Example collection",
-            "link": ""
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Example collection",
-            "link": ""
-          }
-        },
-        "column-3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Example collection",
-            "link": ""
-          }
-        },
-        "column-4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "Example collection",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3",
-        "column-4"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
         "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "columns_mobile": "2",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 44
       }
     },
     "image-with-text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -345,6 +176,7 @@
     },
     "image-with-text-1": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -387,142 +219,9 @@
         "padding_bottom": 0
       }
     },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h2"
-          }
-        },
-        "caption": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to share one of your key brand values.<\/p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "caption",
-        "text"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "multicolumn-3": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Introduce a featured collection.",
-            "text": "",
-            "link_label": "Shop",
-            "link": ""
-          }
-        },
-        "column-3": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column-4": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3",
-        "column-4"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 64,
-        "padding_bottom": 0
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "portrait",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 44
-      }
-    },
     "page": {
       "type": "page",
+      "disabled": true,
       "settings": {
         "page": "",
         "heading_size": "h1",
@@ -533,6 +232,7 @@
     },
     "multicolumn-4": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column-1": {
           "type": "column",
@@ -600,7 +300,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Stay in the know",
+            "heading": "Rămâi la curent",
             "heading_size": "h2"
           }
         },
@@ -612,7 +312,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Follow us on social media<\/p>"
+            "text": "<p>Urmărește-ne pe social media<\/p>"
           }
         }
       },
@@ -630,18 +330,12 @@
     }
   },
   "order": [
+    "collage-1",
     "164959173413196275",
     "collage",
-    "multicolumn",
-    "collage-1",
-    "collage-2",
-    "multicolumn-1",
-    "multicolumn-2",
+    "featured-collection",
     "image-with-text",
     "image-with-text-1",
-    "image-with-text-2",
-    "multicolumn-3",
-    "featured-collection",
     "page",
     "multicolumn-4",
     "newsletter"

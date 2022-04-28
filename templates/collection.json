@@ -32,7 +32,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Stay in the know",
+            "heading": "Rămâi la curent",
             "heading_size": "h2"
           }
         },
@@ -44,7 +44,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Follow us on social media<\/p>"
+            "text": "<p>Urmărește-ne pe social media<\/p>"
           }
         }
       },

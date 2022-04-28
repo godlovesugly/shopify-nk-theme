@@ -11,7 +11,7 @@
     "gradient_background_1": "",
     "colors_background_2": "#fffce7",
     "gradient_background_2": "",
-    "type_header_font": "futura_n5",
+    "type_header_font": "avenir_next_n4",
     "heading_scale": 130,
     "type_body_font": "futura_n5",
     "body_scale": 130,
@@ -85,7 +85,7 @@
     "social_twitter_link": "",
     "social_facebook_link": "",
     "social_pinterest_link": "",
-    "social_instagram_link": "",
+    "social_instagram_link": "https:\/\/nakastore-ro.myshopify.com\/",
     "social_tiktok_link": "",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
@@ -94,6 +94,9 @@
     "predictive_search_enabled": true,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Screenshot_2022-04-16_at_14.35.21.png",
+    "checkout_accent_color": "#169740",
+    "checkout_button_color": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -101,7 +104,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "Prima dată aici? Aveți 20% reducere cu codul HELLONAKA",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -132,7 +135,7 @@
         "settings": {
           "color_scheme": "accent-1",
           "newsletter_enable": false,
-          "newsletter_heading": "",
+          "newsletter_heading": "asd",
           "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,
